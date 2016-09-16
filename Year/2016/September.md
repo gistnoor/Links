@@ -1,20 +1,22 @@
 #September [2016][1]
 
 ## Css
+###### Typography
 * [Font Size Idea: px at the Root, rem for Components, em for Text Elements](https://css-tricks.com/rems-ems/)
 * [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
 * [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
-* [sass - z-index]
+
+[sass - z-index]
 
 ##Javascript
 
-* [7 Patterns to Refactor Javascript Applicatons: Decorator](http://crushlovely.com/journal/7-patterns-to-refactor-javascript-applications-decorators/)  
-* [javascript properties enumerable writable configurable](http://arqex.com/967/javascript-properties-enumerable-writable-configurable)
-* [Understanding Scope and context in Javascript](http://ryanmorr.com/understanding-scope-and-context-in-javascript)  
-* [Javascript truthy or falsy](http://james.padolsey.com/javascript/truthy-falsey/)  
-* [The Green place](http://eli.thegreenplace.net/archives/all)  
+[7 Patterns to Refactor Javascript Applicatons: Decorator](http://crushlovely.com/journal/7-patterns-to-refactor-javascript-applications-decorators/)  
+[javascript properties enumerable writable configurable](http://arqex.com/967/javascript-properties-enumerable-writable-configurable)
+[Understanding Scope and context in Javascript](http://ryanmorr.com/understanding-scope-and-context-in-javascript)  
+[Javascript truthy or falsy](http://james.padolsey.com/javascript/truthy-falsey/)  
+[The Green place](http://eli.thegreenplace.net/archives/all)  
 
-#######
+###### Library  
 * [Lodash](https://lodash.com/)
 * [Underscore Js](http://underscorejs.org/)
 
@@ -27,7 +29,7 @@
 ###### Design pattern
 * [php - The right way](http://www.phptherightway.com/pages/Design-Patterns.html)
   
-* `github` - [Dependency Injection Example](https://github.com/daylerees/dependency-injection-example)
+`github` - [Dependency Injection Example](https://github.com/daylerees/dependency-injection-example)
 
 
 ## Python
@@ -36,7 +38,11 @@
 * [asyncio — Asynchronous I/O, event loop, and concurrency tools](https://pymotw.com/3/asyncio/)
 * [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
-* [How the heck does async/await work in python 3.5](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5)
+* [How the heck does async/await work in python 3.5](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5)  
+   
+[Welcome to python cheatsheet!](https://www.pythonsheets.com/)   
+[A Guide to python's Magic Method](http://www.rafekettler.com/magicmethods.htm) > _Rafekettler.com_  
+
 
 ## Node packages
 * **`lexical-scope`**[ - detect global and local lexical identifiers from javascript source code](https://www.npmjs.com/package/lexical-scope)  
