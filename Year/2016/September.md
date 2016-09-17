@@ -1,4 +1,4 @@
-#September [2016]: https://github.com/gistnoor/Links/tree/master/Year/2016
+#September [2016](../tree/master/Year/2016)
 
 ## Css
 ###### Typography
@@ -75,6 +75,3 @@
 * [Feature creep](https://en.wikipedia.org/wiki/Feature_creep)
 * [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 * [GRASP (object oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-
-
-
