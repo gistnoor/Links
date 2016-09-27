@@ -1,4 +1,5 @@
-#September [2016][1]
+#September [2016]
+[2016]: https://github.com/gistnoor/Links/tree/master/Year/2016
 
 ## Css
 ###### Typography
@@ -22,7 +23,12 @@
 
 ###### Online Book 
 * [Learning Javascript Design Patters](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [Eloquent Javascript](http://eloquentjavascript.net/) - _2nd Edition_
+* [Eloquent Javascript](http://eloquentjavascript.net/) - _2nd Edition
+* [Exploring ES6](http://exploringjs.com/es6/)
+* [EcmaScript Features](http://es6-features.org/#Constants)
+
+###### React
+* `github` - [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
 
 
 ## Php
@@ -40,9 +46,15 @@
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 * [How the heck does async/await work in python 3.5](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5)  
    
+###### Moduel
+* [Inspect Moduel](https://pymotw.com/2/inspect/)
+
 [Welcome to python cheatsheet!](https://www.pythonsheets.com/)   
 [A Guide to python's Magic Method](http://www.rafekettler.com/magicmethods.htm) > _Rafekettler.com_  
+[Python formatting](https://pyformat.info/) > pyformat
 
+####### Miscellaneous
+`stackoverflow` - [Understanding metaclasses in Python](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 
 ## Node packages
 * **`lexical-scope`**[ - detect global and local lexical identifiers from javascript source code](https://www.npmjs.com/package/lexical-scope)  
@@ -76,5 +88,7 @@
 * [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 * [GRASP (object oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 
-
+## YouTube Channel
+`python` - [David Beazley](https://www.youtube.com/user/dabeazllc/videos)   
+`python` - [Next day video](https://www.youtube.com/user/NextDayVideo/videos)
 
