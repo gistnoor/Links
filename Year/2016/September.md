@@ -26,6 +26,7 @@
 * [Eloquent Javascript](http://eloquentjavascript.net/) - _2nd Edition
 * [Exploring ES6](http://exploringjs.com/es6/)
 * [EcmaScript Features](http://es6-features.org/#Constants)
+* [Javascript Alongee](https://leanpub.com/javascriptallongesix/read)
 
 ###### React
 * `github` - [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
