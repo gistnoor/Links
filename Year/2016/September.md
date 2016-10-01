@@ -7,8 +7,6 @@
 * [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
 * [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
 
-[sass - z-index]
-
 ##Javascript
 
 [7 Patterns to Refactor Javascript Applicatons: Decorator](http://crushlovely.com/journal/7-patterns-to-refactor-javascript-applications-decorators/)  
@@ -21,11 +19,6 @@
 * [Lodash](https://lodash.com/)
 * [Underscore Js](http://underscorejs.org/)
 
-###### Online Book 
-* [Learning Javascript Design Patters](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [Eloquent Javascript](http://eloquentjavascript.net/) - _2nd Edition
-* [Exploring ES6](http://exploringjs.com/es6/)
-* [EcmaScript Features](http://es6-features.org/#Constants)
 
 ###### React
 * `github` - [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
@@ -68,8 +61,6 @@
 * `python` - [Python Machine Learning Book](https://github.com/rasbt/python-machine-learning-book)
 * `php` - [Dependency injection example](https://github.com/daylerees/dependency-injection-example)
 
-
-
 ## Method and principles
 ###### Wikipedia
 * [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
@@ -87,8 +78,3 @@
 * [Feature creep](https://en.wikipedia.org/wiki/Feature_creep)
 * [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 * [GRASP (object oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-
-## YouTube Channel
-`python` - [David Beazley](https://www.youtube.com/user/dabeazllc/videos)   
-`python` - [Next day video](https://www.youtube.com/user/NextDayVideo/videos)
-
