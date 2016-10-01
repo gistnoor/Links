@@ -16,7 +16,7 @@
 [Understanding Scope and context in Javascript](http://ryanmorr.com/understanding-scope-and-context-in-javascript)  
 [Javascript truthy or falsy](http://james.padolsey.com/javascript/truthy-falsey/)  
 [The Green place](http://eli.thegreenplace.net/archives/all)  
-
+[Stop Writing Anonymous function](https://stijndewitt.com/2013/12/02/stop-writing-anonymous-functions/)
 ###### Library  
 * [Lodash](https://lodash.com/)
 * [Underscore Js](http://underscorejs.org/)
