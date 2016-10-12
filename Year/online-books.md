@@ -14,3 +14,4 @@
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 * [Python Module Index](https://pymotw.com/3/py-modindex.html)
 * [Numerical Python](http://www.python-course.eu/numpy.php)
+* [Python sheets](https://www.pythonsheets.com/)
