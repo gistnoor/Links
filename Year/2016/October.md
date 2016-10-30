@@ -11,32 +11,34 @@
 * [creativeJS - requestAnimationFrame](http://creativejs.com/resources/requestanimationframe/)
 * [Every javascript developer should know abunt unicode](https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/)
 * [Memory efficient javascript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
+
 ###### react
 * [React binding patterns](https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.238sa8mrd)
+
 ###### node module
 * [rsvp](https://www.npmjs.com/package/rsvp) A lightweight library that provides tools for organizing asynchronous code
 
-## WiKipedia
+
+
+
+
+## Must know
+* [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+* [Fourier transform for dummies](http://nipunbatra.github.io/2016/01/fft/) - *`python`*
+* [pageRank](http://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm)
+* [PageRank algorithm](http://www.linksandlaw.com/technicalbackground-pagerank.htm)
+* [pageRank explained](http://www.slideshare.net/jdhaar/pagerank-algorithm-explaned) - *`slideshow`
+* [Binary search algorith](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+* [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+* [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+* [Timsort](https://en.wikipedia.org/wiki/Timsort)
+* [Timsort](https://en.wikipedia.org/wiki/Timsort)
 * [Momization](https://en.wikipedia.org/wiki/Memoization)
 * [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)- `prime number generaton`
 * [Mersenne prime](https://en.wikipedia.org/wiki/Mersenne_prime)
-## MISC
-* [A Gentle Introduction to Alogorithm Complexity Analysis](http://discrete.gr/complexity/)
-* [Complexity and BIG-O Notation](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
-* [https://en.wikipedia.org/wiki/Timsort](Timsort)
-
-## Must know
-* [https://en.wikipedia.org/wiki/Fast_Fourier_transform](Fast Fourier transform)
-* [http://nipunbatra.github.io/2016/01/fft/](Fourier transform for dummies) *`python`*
-* [http://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm](pageRank)
-* [http://www.linksandlaw.com/technicalbackground-pagerank.htm](PageRank algorithm)
-* [http://www.slideshare.net/jdhaar/pagerank-algorithm-explaned](pageRank explained) *`slideshow`*
-* [https://en.wikipedia.org/wiki/Binary_search_algorithm](Binary search algorith)
-* [https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm](Dijkstra's algorithm)
-* [https://en.wikipedia.org/wiki/Bayes%27_theorem](Bayes' theorem)
-* [https://en.wikipedia.org/wiki/Timsort](Timsort)
-
 
 ##MISC
+* [A Gentle Introduction to Alogorithm Complexity Analysis](http://discrete.gr/complexity/)
+* [Complexity and BIG-O Notation](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
 * [https://georgemdallas.wordpress.com/2013/08/14/data-compression-what-it-is-and-how-it-works/](Data compression- what is it and how it works)
 * [http://sortvis.org/index.html](Sorting visualization)
