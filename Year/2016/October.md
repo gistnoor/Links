@@ -4,6 +4,7 @@
 ##Python
 * [Laurent Luce's blog](http://www.laurentluce.com/)
 * [Elasticsearch DSL](http://elasticsearch-dsl.readthedocs.io/en/latest/index.html) *`python-tool`*
+
 ##Javascript
 * [javascript patterns](http://shichuan.github.io/javascript-patterns/)
 * [javascript Promise](http://web.cs.iastate.edu/~smkautz/cs430s16/papers/javascript_promises/javascript_promises.pdf) - *`pdf`*
@@ -38,5 +39,6 @@
 * [A Gentle Introduction to Alogorithm Complexity Analysis](http://discrete.gr/complexity/)
 * [Complexity and BIG-O Notation](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
 * [Data Compress - what it is and how it works](https://georgemdallas.wordpress.com/2013/08/14/data-compression-what-it-is-and-how-it-works/)
+* [Data Compression Explained](http://www.mattmahoney.net/dc/dce.html)
 * [Sorting visualization](http://sortvis.org/index.html)
 * [How DNS works](https://howdns.works/)

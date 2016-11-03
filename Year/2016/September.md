@@ -38,7 +38,7 @@
 * [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 * [How the heck does async/await work in python 3.5](http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5)  
-   
+* [I don't understand python's asyncio](http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/) 
 ###### Moduel
 * [Inspect Moduel](https://pymotw.com/2/inspect/)
 
@@ -48,7 +48,7 @@
 
 ####### Miscellaneous
 `stackoverflow` - [Understanding metaclasses in Python](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
-
+`pdf` - [Understanding GIL](http://www.dabeaz.com/python/UnderstandingGIL.pdf)
 ## Node packages
 * **`lexical-scope`**[ - detect global and local lexical identifiers from javascript source code](https://www.npmjs.com/package/lexical-scope)  
 * **`restify`**[- is a smallish framework, similar to express for building REST APIs](http://restify.com/)  
