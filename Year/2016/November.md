@@ -23,6 +23,11 @@
 
 ## Javascript
 * [Data Structure in Javascript](https://code.tutsplus.com/series/data-structures-in-javascript--cms-772 "TutsPlus")   
+* [Javascript - Linked List](https://www.nczonline.net/blog/2009/04/13/computer-science-in-javascript-linked-list/ "Author of Understanding Ecmascript")
+* [Data Structure in Javascript](http://blog.benoitvallon.com/category/data-structures-in-javascript/ "Benoitvallon.com")
+* [Sorting Algorithm Series](http://blog.benoitvallon.com/sorting-algorithms-in-javascript/sorting-algorithms-in-javascript/ "Benoitavallon.com")
+* [How to copy objects in javascript](https://www.webreflection.co.uk/blog/2015/10/06/how-to-copy-objects-in-javascript#copying-all-own-keys "webreflection.co.uk")
+
 
 ###### React
 * [React Future](https://github.com/reactjs/react-future "Github")
@@ -30,3 +35,7 @@
 
 ## MISC
 * [What is polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)
+* [33 Books everyone should read before turning 30](http://www.independent.co.uk/arts-entertainment/books/33-books-everyone-should-read-before-turning-30-a6746496.html?cmpid=facebook-post "Independent.co.uk")
+* [17 Books Everyone should read, according to bill gates](http://time.com/4121025/book-recommendations-bill-gates/ "Time.com")
+* [32 Books that will actually change your life](https://www.buzzfeed.com/erinlarosa/books-that-will-actually-change-your-life?utm_term=.keD3W4m5o#.ix4WdrewZ "Buzzfeed.com")
+* [50 Books to read Before you die](http://uk.complex.com/pop-culture/2012/07/50-books-to-read-before-you-die/ "complex.com")
