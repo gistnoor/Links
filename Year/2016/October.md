@@ -1,5 +1,5 @@
 #October [2016]
-[2016]: https://github.com/gistnoor/Links/tree/master/Year/2016
+[2016]: https://github.com/gistnoor/Links/tree/master/Year
 
 ##Python
 * [Laurent Luce's blog](http://www.laurentluce.com/)
