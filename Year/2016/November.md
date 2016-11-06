@@ -17,6 +17,10 @@
 * [Null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis)
 * [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
 * [Radix](https://en.wikipedia.org/wiki/Radix)
+* [Shard (Data Structure)](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+
+### Design
+* [SVG tutorial](http://svgtutorial.com/)
 
 ## Python
 * [Sanic](https://github.com/channelcat/sanic "GitHub") ***important***
