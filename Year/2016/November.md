@@ -19,8 +19,13 @@
 * [Radix](https://en.wikipedia.org/wiki/Radix)
 * [Shard (Data Structure)](https://en.wikipedia.org/wiki/Shard_(database_architecture))
 
-### Design
+## Design
+
+###### svg
 * [SVG tutorial](http://svgtutorial.com/)
+
+###### Database
+* [Multi-tenant data architecture](https://msdn.microsoft.com/en-us/library/aa479086.aspx)
 
 ## Python
 * [Sanic](https://github.com/channelcat/sanic "GitHub") ***important***
