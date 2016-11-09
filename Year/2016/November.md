@@ -38,10 +38,12 @@
 * [Sorting Algorithm Series](http://blog.benoitvallon.com/sorting-algorithms-in-javascript/sorting-algorithms-in-javascript/ "Benoitavallon.com")
 * [How to copy objects in javascript](https://www.webreflection.co.uk/blog/2015/10/06/how-to-copy-objects-in-javascript#copying-all-own-keys "webreflection.co.uk")
 * [Detailed overview of well-known symbols in javascript](https://rainsoft.io/detailed-overview-of-well-known-symbols/ "rainsoft.io")
-
+* [Javascript Linked List Interview](http://www.thatjsdude.com/interview/linkedList.html)
 
 ###### React
 * [React Future](https://github.com/reactjs/react-future "Github")
+* [Full Stack Redux tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [Reduxjx.org](http://redux.js.org/ "Reduxjs.org")
 
 
 ## MISC
