@@ -45,6 +45,8 @@
 * [Full Stack Redux tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Reduxjx.org](http://redux.js.org/ "Reduxjs.org")
 
+###### Angular 2
+* [Angular 2 Development - Free course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
 
 ## MISC
 * [Programming-algorithm](http://www.programming-algorithms.net "programming-algorithm.net")
