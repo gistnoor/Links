@@ -15,3 +15,7 @@
 * [Python Module Index](https://pymotw.com/3/py-modindex.html)
 * [Numerical Python](http://www.python-course.eu/numpy.php)
 * [Python sheets](https://www.pythonsheets.com/)
+
+
+## MISC
+* [A huge collection of free books for developers](https://devfreebooks.github.io/)
