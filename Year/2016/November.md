@@ -40,10 +40,15 @@
 * [Detailed overview of well-known symbols in javascript](https://rainsoft.io/detailed-overview-of-well-known-symbols/ "rainsoft.io")
 * [Javascript Linked List Interview](http://www.thatjsdude.com/interview/linkedList.html)
 
-###### React
+##### React
 * [React Future](https://github.com/reactjs/react-future "Github")
 * [Full Stack Redux tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Reduxjx.org](http://redux.js.org/ "Reduxjs.org")
+* [Getting started with react and redux and immutabe](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
+* [Redux video tutorial - egghead.io](https://egghead.io/courses/getting-started-with-redux)
+
+###### common errors - react
+* [Reactjs: unexpected token '<'](http://stackoverflow.com/questions/20905227/reactjs-unexpected-token-error)
 
 ###### Angular 2
 * [Angular 2 Development - Free course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
@@ -55,3 +60,4 @@
 * [17 Books Everyone should read, according to bill gates](http://time.com/4121025/book-recommendations-bill-gates/ "Time.com")
 * [32 Books that will actually change your life](https://www.buzzfeed.com/erinlarosa/books-that-will-actually-change-your-life?utm_term=.keD3W4m5o#.ix4WdrewZ "Buzzfeed.com")
 * [50 Books to read Before you die](http://uk.complex.com/pop-culture/2012/07/50-books-to-read-before-you-die/ "complex.com")
+* [http2-explained](https://github.com/bagder/http2-explained)- *`github`*
