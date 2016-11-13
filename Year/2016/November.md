@@ -42,10 +42,12 @@
 
 ##### React
 * [React Future](https://github.com/reactjs/react-future "Github")
-* [Full Stack Redux tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+* [Full Stack Redux tutorial](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1)
+* [Trello clone with Phonex and React)[http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html]
 * [Reduxjx.org](http://redux.js.org/ "Reduxjs.org")
 * [Getting started with react and redux and immutabe](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 * [Redux video tutorial - egghead.io](https://egghead.io/courses/getting-started-with-redux)
+* [Immutable](https://facebook.github.io/immutable-js/docs/)
 
 ###### common errors - react
 * [Reactjs: unexpected token '<'](http://stackoverflow.com/questions/20905227/reactjs-unexpected-token-error)
