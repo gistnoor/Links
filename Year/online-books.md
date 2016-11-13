@@ -1,10 +1,18 @@
 # Online Book 
+
+## Algorithm
+* [Algorithms By Robert Sedgewick and Kevin Wayne](http://algs4.cs.princeton.edu/home/)
+* [Data Structure and algorithm](https://algorithm.yuanbin.me/en/index.html "Gitbook")
+
 ## Javascript
 * [Learning Javascript Design Patters](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [Eloquent Javascript](http://eloquentjavascript.net/) - _2nd Edition   
+* [Eloquent Javascript](http://eloquentjavascript.net/) -*2nd Edition*
 * [Exploring ES6](http://exploringjs.com/es6/)
 * [EcmaScript Features](http://es6-features.org/#Constants)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+
+###### React
+* [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details "Gitbook")
 
 ###### ~~Book~~ type
 
