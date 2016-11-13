@@ -29,7 +29,7 @@
 
 ## Python
 * [Sanic](https://github.com/channelcat/sanic "GitHub") ***important***
-
+* [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio "Github")
 
 ## Javascript
 * [Data Structure in Javascript](https://code.tutsplus.com/series/data-structures-in-javascript--cms-772 "TutsPlus")   
