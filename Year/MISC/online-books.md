@@ -10,9 +10,23 @@
 * [Exploring ES6](http://exploringjs.com/es6/)
 * [EcmaScript Features](http://es6-features.org/#Constants)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+* [Speaking Javascript]('http://speakingjs.com/es5/index.html')
+* [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
+* [Javascript for Cats](http://jsforcats.com/)
+* [Javascript Garder](http://bonsaiden.github.io/JavaScript-Garden/)
+* [Human Javascripts](http://read.humanjavascript.com/) 
+* [Programming Javascript Application](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [Javascript Spessore](https://leanpub.com/javascript-spessore/read)
+* [Javascript the Right way](http://jstherightway.org/)
+
+###### jQuery
+* [jQuery Enligtenment](http://jqueryenlightenment.com/jquery_enlightenment.pdf)- **pdf**
 
 ###### React
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details "Gitbook")
+
+###### Nodejs
+* [Art of node](https://github.com/maxogden/art-of-node)
 
 ###### ~~Book~~ type
 

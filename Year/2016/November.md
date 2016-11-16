@@ -39,21 +39,26 @@
 * [How to copy objects in javascript](https://www.webreflection.co.uk/blog/2015/10/06/how-to-copy-objects-in-javascript#copying-all-own-keys "webreflection.co.uk")
 * [Detailed overview of well-known symbols in javascript](https://rainsoft.io/detailed-overview-of-well-known-symbols/ "rainsoft.io")
 * [Javascript Linked List Interview](http://www.thatjsdude.com/interview/linkedList.html)
+* [Javascript System Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) **good post**
+* [Javascripture](http://www.javascripture.com/)
 
 ##### React
 * [React Future](https://github.com/reactjs/react-future "Github")
 * [Full Stack Redux tutorial](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1)
-* [Trello clone with Phonex and React)[http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html]
+* [Trello clone with Phonex and React](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html]
 * [Reduxjx.org](http://redux.js.org/ "Reduxjs.org")
 * [Getting started with react and redux and immutabe](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 * [Redux video tutorial - egghead.io](https://egghead.io/courses/getting-started-with-redux)
 * [Immutable](https://facebook.github.io/immutable-js/docs/)
 
-###### common errors - react
-* [Reactjs: unexpected token '<'](http://stackoverflow.com/questions/20905227/reactjs-unexpected-token-error)
+###### Nodejs
+* [19 things i learnt reading the nodejs docs](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.a4m2ua73p)
 
 ###### Angular 2
 * [Angular 2 Development - Free course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
+
+## GO
+* [Awesome go](https://awesome-go.com)
 
 ## MISC
 * [Programming-algorithm](http://www.programming-algorithms.net "programming-algorithm.net")
