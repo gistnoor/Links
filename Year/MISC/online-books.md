@@ -25,6 +25,9 @@
 ###### React
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details "Gitbook")
 
+###### Angular 2
+* [Angular 2 books compilation](https://github.com/jmcunningham/AngularJS2-Learning)
+
 ###### Nodejs
 * [Art of node](https://github.com/maxogden/art-of-node)
 
@@ -41,3 +44,4 @@
 
 ## MISC
 * [A huge collection of free books for developers](https://devfreebooks.github.io/)
+* [Go programming books](https://github.com/dariubs/GoBooks)

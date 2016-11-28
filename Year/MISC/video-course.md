@@ -16,3 +16,6 @@
 
 ###### MISC
 * `vim`[vimcasts](vimcasts.org)
+
+
+###### [Computer science video-course](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)
