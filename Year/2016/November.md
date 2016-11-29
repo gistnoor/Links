@@ -42,6 +42,7 @@
 * [Javascript Linked List Interview](http://www.thatjsdude.com/interview/linkedList.html)
 * [Javascript System Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) **good post**
 * [Javascripture](http://www.javascripture.com/)
+* [RequestAnimationFrame](http://creativejs.com/resources/requestanimationframe/)
 
 ##### React
 * [React Future](https://github.com/reactjs/react-future "Github")
