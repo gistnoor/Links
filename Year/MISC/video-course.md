@@ -10,6 +10,7 @@
 * `Conference` [hasgeet](https://www.youtube.com/user/hasgeek/videos)
 * `GOTO Conference` [MISC](https://www.youtube.com/user/GotoConferences/videos)
 * `NodeConfEU 2016` [Node](https://www.youtube.com/playlist?list=PL0CdgOSSGlBY4vNGIZndSoVFWHrheWlG8)
+* `NodeConf 2016 North America` [Node](https://www.youtube.com/playlist?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8)
 ###### Python   
 * `youtube [channel]` - 1. [David Beazley](https://www.youtube.com/user/dabeazllc/videos)   
 * `youtube [channel]` - 2. [Next day video](https://www.youtube.com/user/NextDayVideo/videos)
