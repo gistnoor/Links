@@ -1,5 +1,5 @@
 # January [2017]
-[2016]: https://github.com/gistnoor/Links/tree/master/Year
+[2017]: https://github.com/gistnoor/Links/tree/master/Year
 
 ## CSS
 * [Transition Only After Page Load](https://css-tricks.com/transitions-only-after-page-load/)
@@ -25,6 +25,13 @@
 
 ### Nodejs
 
+#### Worth peeking
+* [Bookshelf](http://bookshelfjs.org/)-**orm**
+
 ###### Good Read
 * [Callback hell](http://callbackhell.com/)
 * [Nodejs best practicses](http://justbuildsomething.com/node-js-best-practices/)
+
+
+## MISC
+* [CORS - cross origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
