@@ -29,6 +29,7 @@
 * [Bookshelf](http://bookshelfjs.org/)-**orm**
 
 ###### Good Read
+* [Understanding javascript callback function and how to use them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Callback hell](http://callbackhell.com/)
 * [Nodejs best practicses](http://justbuildsomething.com/node-js-best-practices/)
 
