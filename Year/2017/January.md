@@ -27,12 +27,15 @@
 
 #### Worth peeking
 * [Bookshelf](http://bookshelfjs.org/)-**orm**
-
+* [Passport](http://passportjs.org/docs) - **Authenticatino middleware**
+* [Promises](https://www.promisejs.org/)
 ###### Good Read
 * [Understanding javascript callback function and how to use them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Callback hell](http://callbackhell.com/)
 * [Nodejs best practicses](http://justbuildsomething.com/node-js-best-practices/)
 
+### React
+* [Ractjs.co](https://reactjs.co/)
 
 ## MISC
 * [CORS - cross origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
