@@ -45,3 +45,6 @@
 ## MISC
 * [A huge collection of free books for developers](https://devfreebooks.github.io/)
 * [Go programming books](https://github.com/dariubs/GoBooks)
+
+## Good repo
+* [Fox e book](http://www.foxebook.net/sitemap/)

@@ -22,6 +22,8 @@
 
 
 ## Javascript
+* [private property](http://www.crockford.com/javascript/private.html)
+
 
 ### Nodejs
 
@@ -29,6 +31,7 @@
 * [Bookshelf](http://bookshelfjs.org/)-**orm**
 * [Passport](http://passportjs.org/docs) - **Authenticatino middleware**
 * [Promises](https://www.promisejs.org/)
+
 ###### Good Read
 * [Understanding javascript callback function and how to use them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Callback hell](http://callbackhell.com/)
@@ -36,6 +39,12 @@
 
 ### React
 * [Ractjs.co](https://reactjs.co/)
+
+### jQuery
+* [Difference between event.stopPropagation and event.preventDefault](http://stackoverflow.com/questions/5963669/whats-the-difference-between-event-stoppropagation-and-event-preventdefault)
+
+### Video
+* [What the heck is event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ## MISC
 * [CORS - cross origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
