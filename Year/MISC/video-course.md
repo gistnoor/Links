@@ -11,6 +11,7 @@
 * `GOTO Conference` [MISC](https://www.youtube.com/user/GotoConferences/videos)
 * `NodeConfEU 2016` [Node](https://www.youtube.com/playlist?list=PL0CdgOSSGlBY4vNGIZndSoVFWHrheWlG8)
 * `NodeConf 2016 North America` [Node](https://www.youtube.com/playlist?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8)
+* `Angular 2` [Net ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jqhk5RvBiEwHMKSUXPyng0)
 ###### Python   
 * `youtube [channel]` - 1. [David Beazley](https://www.youtube.com/user/dabeazllc/videos)   
 * `youtube [channel]` - 2. [Next day video](https://www.youtube.com/user/NextDayVideo/videos)
