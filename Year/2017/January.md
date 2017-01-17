@@ -3,6 +3,10 @@
 
 ## CSS
 * [Transition Only After Page Load](https://css-tricks.com/transitions-only-after-page-load/)
+* [High Performance animation](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+* [Understanding css  filter effects](https://www.html5rocks.com/en/tutorials/filters/understanding-css/)
+* [CSS animatable properties](http://oli.jp/2010/css-animatable-properties/)
+
 
 ###### Worth looking
 * [Menu Cool](http://www.menucool.com/)
@@ -23,7 +27,9 @@
 
 ## Javascript
 * [private property](http://www.crockford.com/javascript/private.html)
-
+* [Javascript Style guide](https://github.com/airbnb/javascript)
+* [Javascript Memory leaks](http://javascript.info/tutorial/memory-leaks)
+* [4 types of memory leaks in javascript and how to get rid of them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
 
 ### Nodejs
 
