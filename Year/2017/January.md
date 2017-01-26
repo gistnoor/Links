@@ -54,3 +54,4 @@
 
 ## MISC
 * [CORS - cross origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+* [Currying](https://en.wikipedia.org/wiki/Currying)
