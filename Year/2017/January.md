@@ -7,9 +7,10 @@
 * [Understanding css  filter effects](https://www.html5rocks.com/en/tutorials/filters/understanding-css/)
 * [CSS animatable properties](http://oli.jp/2010/css-animatable-properties/)
 * [70 expert ideas for better css coding](https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/)
-* [css protips](https://github.com/AllThingsSmitty/css-protips) - `**github**`
-
-
+* [css protips](https://github.com/AllThingsSmitty/css-protips) - _`github`_
+* [How do you keep parents of floated elements from collapsing](stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing)
+* [CSS Stacking contexts: What they are and how they work](https://tiffanybbrown.com/2015/09/css-stacking-contexts-wtf/)
+* [When to use margin vs padding](http://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
 
 ###### Worth looking
 * [Menu Cool](http://www.menucool.com/)
@@ -25,7 +26,7 @@
 
 
 ##### Customization
-* ``theme-customizer`` [How to setup the wordpress theme customizer](http://buildwpyourself.com/wordpress-theme-customizer/)
+* _``theme-customizer``_ [How to setup the wordpress theme customizer](http://buildwpyourself.com/wordpress-theme-customizer/)
 
 
 ## Javascript
@@ -34,17 +35,19 @@
 * [Javascript Memory leaks](http://javascript.info/tutorial/memory-leaks)
 * [4 types of memory leaks in javascript and how to get rid of them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
 * [Current State of dependency inversion in javascript](http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javascript)
+
 ### Nodejs
 
 #### Worth peeking
-* [Bookshelf](http://bookshelfjs.org/)-**orm**
-* [Passport](http://passportjs.org/docs) - **Authenticatino middleware**
+* [Bookshelf](http://bookshelfjs.org/)- _``orm``_
+* [Passport](http://passportjs.org/docs) - _``Authenticatino middleware``_
 * [Promises](https://www.promisejs.org/)
 
 ###### Good Read
 * [Understanding javascript callback function and how to use them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Callback hell](http://callbackhell.com/)
 * [Nodejs best practicses](http://justbuildsomething.com/node-js-best-practices/)
+* [When should I use Nodejs for backend](http://www.atulr.com/blog-atul/web/2016/11/05/nodejs-usage.html)
 
 ### React
 * [Ractjs.co](https://reactjs.co/)
