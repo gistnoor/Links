@@ -11,6 +11,9 @@
 * [How do you keep parents of floated elements from collapsing](stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing)
 * [CSS Stacking contexts: What they are and how they work](https://tiffanybbrown.com/2015/09/css-stacking-contexts-wtf/)
 * [When to use margin vs padding](http://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css)
+* [How to align checkboxes and their labels consistently cross browsers](http://stackoverflow.com/questions/306252/how-to-align-checkboxes-and-their-labels-consistently-cross-browsers/306593#306593)
+* [Fighting the space between inline block elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+* [Vertical alignment of elements in a div](http://stackoverflow.com/questions/79461/vertical-alignment-of-elements-in-a-div/84616)
 
 ###### Worth looking
 * [Menu Cool](http://www.menucool.com/)
@@ -35,6 +38,9 @@
 * [Javascript Memory leaks](http://javascript.info/tutorial/memory-leaks)
 * [4 types of memory leaks in javascript and how to get rid of them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
 * [Current State of dependency inversion in javascript](http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javascript)
+* [Dependency injection in javascript](http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript)
+* [Dependency injection in javascript](http://www.yusufaytas.com/dependency-injection-in-javascript/)
+* [devBridge - Dependency injection in javascript](https://www.devbridge.com/articles/dependency-injection-in-javascript/)
 
 ### Nodejs
 
@@ -48,6 +54,7 @@
 * [Callback hell](http://callbackhell.com/)
 * [Nodejs best practicses](http://justbuildsomething.com/node-js-best-practices/)
 * [When should I use Nodejs for backend](http://www.atulr.com/blog-atul/web/2016/11/05/nodejs-usage.html)
+* [Dependency injection in node js](https://blog.risingstack.com/dependency-injection-in-node-js/)
 
 ### React
 * [Ractjs.co](https://reactjs.co/)
