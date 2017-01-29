@@ -6,6 +6,9 @@
 * [High Performance animation](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 * [Understanding css  filter effects](https://www.html5rocks.com/en/tutorials/filters/understanding-css/)
 * [CSS animatable properties](http://oli.jp/2010/css-animatable-properties/)
+* [70 expert ideas for better css coding](https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/)
+* [css protips](https://github.com/AllThingsSmitty/css-protips) - `**github**`
+
 
 
 ###### Worth looking
@@ -30,7 +33,7 @@
 * [Javascript Style guide](https://github.com/airbnb/javascript)
 * [Javascript Memory leaks](http://javascript.info/tutorial/memory-leaks)
 * [4 types of memory leaks in javascript and how to get rid of them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
-
+* [Current State of dependency inversion in javascript](http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javascript)
 ### Nodejs
 
 #### Worth peeking
