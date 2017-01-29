@@ -14,6 +14,18 @@
 * [How to align checkboxes and their labels consistently cross browsers](http://stackoverflow.com/questions/306252/how-to-align-checkboxes-and-their-labels-consistently-cross-browsers/306593#306593)
 * [Fighting the space between inline block elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 * [Vertical alignment of elements in a div](http://stackoverflow.com/questions/79461/vertical-alignment-of-elements-in-a-div/84616)
+* [Inline block: why it rocks, and why it sucks](https://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/)
+* [Why you should use inline-block when positioning elements](http://joshnh.com/weblog/why-you-should-use-inline-block-when-positioning-elements/)
+* [Vertical align with bootstrap -3](http://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3/25517025#25517025)
+* [How to add page transitions with css and smoothstate.js](https://css-tricks.com/add-page-transitions-css-smoothstate-js/)
+
+
+###### Examples
+* [inline block elements](http://karenmenezes.com/inlineblockelements/)
+* [20 Examples of beautiful css typography Desgin](https://wdexplorer.com/20-examples-beautiful-css-typography-design/)
+* [50 interseting css image and button and text hover effects](http://bashooka.com/coding/css-image-button-text-hover-effects/)
+* [38 neat css & js hover effects](http://www.cssdesignawards.com/articles/round-up-38-neat-css-js-hover-effects/101/)
+* [25 best free css3 transition effects](http://www.designrazor.net/free-css3-transition-effects-download/)
 
 ###### Worth looking
 * [Menu Cool](http://www.menucool.com/)
