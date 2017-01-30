@@ -18,7 +18,10 @@
 * [Why you should use inline-block when positioning elements](http://joshnh.com/weblog/why-you-should-use-inline-block-when-positioning-elements/)
 * [Vertical align with bootstrap -3](http://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3/25517025#25517025)
 * [How to add page transitions with css and smoothstate.js](https://css-tricks.com/add-page-transitions-css-smoothstate-js/)
-
+* [What no one told you about z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+* [MDN - css stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
+* [How well do you understand css positioning](http://vanseodesign.com/css/css-positioning/)
+* [z-index and css stack: Which element displays first](http://vanseodesign.com/css/css-stack-z-index/)
 
 ###### Examples
 * [inline block elements](http://karenmenezes.com/inlineblockelements/)
@@ -39,7 +42,7 @@
 ##### Should Know
 * [8 things every wordpress developers should know](http://www.spiralclick.com/blog/8-things-every-wordpress-developer-should-know)
 * [14 Handy wordpress hacks every developer should know](https://premium.wpmudev.org/blog/14-handy-wordpress-hacks-every-developer-should-know/)
-
+* [Learning Wordpress - Most useful tips and tutorials](https://www.smashingmagazine.com/learning-wordpress-useful-wordpress-tips-tutorials/)
 
 ##### Customization
 * _``theme-customizer``_ [How to setup the wordpress theme customizer](http://buildwpyourself.com/wordpress-theme-customizer/)
