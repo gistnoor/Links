@@ -26,6 +26,7 @@
 * [50 interseting css image and button and text hover effects](http://bashooka.com/coding/css-image-button-text-hover-effects/)
 * [38 neat css & js hover effects](http://www.cssdesignawards.com/articles/round-up-38-neat-css-js-hover-effects/101/)
 * [25 best free css3 transition effects](http://www.designrazor.net/free-css3-transition-effects-download/)
+* [35 css Hover effects](http://ninodezign.com/35-awesome-image-hover-effect-with-pure-css3-part-1/)
 
 ###### Worth looking
 * [Menu Cool](http://www.menucool.com/)
@@ -80,3 +81,5 @@
 ## MISC
 * [CORS - cross origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 * [Currying](https://en.wikipedia.org/wiki/Currying)
+* [A beginner's guide to http and rest](https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+* [PUT or POST: the rest of the story](https://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/)
