@@ -22,6 +22,9 @@
 * [MDN - css stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 * [How well do you understand css positioning](http://vanseodesign.com/css/css-positioning/)
 * [z-index and css stack: Which element displays first](http://vanseodesign.com/css/css-stack-z-index/)
+* [Why em instead of px?](http://stackoverflow.com/questions/609517/why-em-instead-of-px)
+* [Just use pixels](https://benfrain.com/just-use-pixels/)
+* [Learn to html && css](http://learn.shayhowe.com)
 
 ###### Examples
 * [inline block elements](http://karenmenezes.com/inlineblockelements/)

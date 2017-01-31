@@ -18,6 +18,6 @@
 
 ###### MISC
 * `vim`[vimcasts](vimcasts.org)
-
+* `laracast`[projekti.info](http://canvas.projekti.info/laracast/)
 
 ###### [Computer science video-course](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)
