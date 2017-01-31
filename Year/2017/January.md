@@ -67,6 +67,8 @@
 * [Bookshelf](http://bookshelfjs.org/)- _``orm``_
 * [Passport](http://passportjs.org/docs) - _``Authenticatino middleware``_
 * [Promises](https://www.promisejs.org/)
+* Nodejs relies on [libev](http://software.schmorp.de/pkg/libev.html) to provide the event lop and [libeo](http://software.schmorp.de/pkg/libeio.html) that uses pooled threads to provide asynchronous I/O.
+
 
 ###### Good Read
 * [Understanding javascript callback function and how to use them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
