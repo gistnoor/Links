@@ -1,0 +1,5 @@
+* [Go bootcamp](http://www.golangbootcamp.com/book)
+* [Go by Example](https://gobyexample.com/)
+* [A tour of go](https://research.swtch.com/gotour)
+* [Best go tutorials](https://hackr.io/tutorials/learn-go)
+* [Google plus](https://plus.google.com/+golang)
