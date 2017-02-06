@@ -54,3 +54,4 @@
 
 ## MISC
 * [How we get our 2 year old repo trending on Github in just 48 hours](https://medium.freecodecamp.com/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b#.63shf5vn8)
+* [All Regular Expressin topics - stackoverflow](http://stackoverflow.com/documentation/regex/topics)
