@@ -1,4 +1,4 @@
-# January [2017]
+# February [2017]
 [2017]: https://github.com/gistnoor/Links/tree/master/Year
 
 ## CSS
@@ -11,6 +11,7 @@
 ###### Good Read
 * [Popular web animation techniques](https://uxplanet.org/popular-web-animation-techniques-a6a467309028#.pnamynk1e)
 * [How to use spaced repetition with Anki to learn to code faster](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.o36xujw4g)
+* [Why moving elements with translate() is better than pos:abs top/left](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
 
 ###### Worth looking
 * [75 of the smartest resources for web designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.npr59ghan)
@@ -39,6 +40,9 @@
 
 
 ### jQuery
+* [What is amd, commonjs and umd?](http://davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/)
+* [Amdjs - amd api](https://github.com/amdjs/amdjs-api)
+
 
 ## Python
 * [Python Top 10 articles for the past year(2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-year-v-2017-6033ae8c65c9#.km1hb2f3e)
