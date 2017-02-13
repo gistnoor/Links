@@ -22,7 +22,8 @@
 * [3 javascript questions to watch out for during coding interviews](https://medium.freecodecamp.com/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb#.dfgvqm9i1)
 * [Polyfills: everything you ever wanted to know, or maybe a bit less](https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423#.vzeul3j6k)
 * [MDN - Array.prototype.indexOf](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
-
+* [Javascript decorator](https://github.com/wycats/javascript-decorators)
+* [Exploring Javascript Decorator](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.3xflg2ygz)
 
 ### Nodejs
 
