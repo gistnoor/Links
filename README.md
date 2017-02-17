@@ -10,7 +10,7 @@
 [Javascript](https://medium.com/tag/javascript) | [Programming](https://medium.com/tag/programming) | [Design](https://medium.com/web-design)
 
 ##### Tutsplus
-[Javascript](https://code.tutsplus.com/categories/javascript) | [PHP](https://code.tutsplus.com/categories/php) | [WORDPRESS](https://code.tutsplus.com/categories/wordpress) | [WEB-DEVELOPMENT](https://code.tutsplus.com/categories/web-development) | []() | 
+[Javascript](https://code.tutsplus.com/categories/javascript) | [PHP](https://code.tutsplus.com/categories/php) | [WORDPRESS](https://code.tutsplus.com/categories/wordpress) | [WEB-DEVELOPMENT](https://code.tutsplus.com/categories/web-development) | 
 
 
 #### Podcast/Audio/Video
