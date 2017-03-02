@@ -16,6 +16,7 @@ ping -c 3 www.google.com
 ```
 
 **☯ If you are out of luck then configure your ethernet connection**
+
 Check that your kernel is compiled with pppoe support
 ```bash
 zgrep CONFI_PPPOE /proc/config.gz
@@ -40,9 +41,9 @@ plugin rp-pppoe.so
 # rp_pppoe_service 'your service name'
  
 # network interface
-<em>enp3s0f1</em>
+``enp3s0f1``
 # login name
-name "net74"
+name ``"net74"``
 usepeerdns
 persist
 # Uncomment this if you want to enable dial on demand
@@ -55,16 +56,16 @@ noauth
 
 ………….Put a line like this in ``/etc/ppp/pap-secrets`` or ``/etc/ppp/chap-secrets``
 ```bash
-net74 * 7474n
+``net74`` * ``7474n``
 ```
 
 **☯You can now start the link using the command:**
 ```bash
-pppd call <em>net74</em>
+pppd call ``net74``
 ```
 or
 ```bash
-pon <em>net74</em>
+pon ``net74``
 ```	
 
 **☯ Check if efi is activate**
@@ -308,7 +309,7 @@ EDITOR=nano visudo
 ```	
 
 ………………….uncomment the follwing line
-#Uncomment to allow member of group wheel to execute any command
+Uncomment to allow member of group wheel to execute any command
 
 ```bash
 %wheel ALL=(ALL) ALL
