@@ -41,9 +41,9 @@ plugin rp-pppoe.so
 # rp_pppoe_service 'your service name'
  
 # network interface
-``enp3s0f1``
+enp3s0f1
 # login name
-name ``"net74"``
+name "net74"
 usepeerdns
 persist
 # Uncomment this if you want to enable dial on demand
@@ -56,16 +56,16 @@ noauth
 
 ………….Put a line like this in ``/etc/ppp/pap-secrets`` or ``/etc/ppp/chap-secrets``
 ```bash
-``net74`` * ``7474n``
+net74 * 7474n
 ```
 
 **☯You can now start the link using the command:**
 ```bash
-pppd call ``net74``
+pppd call net74
 ```
 or
 ```bash
-pon ``net74``
+pon net74
 ```	
 
 **☯ Check if efi is activate**
