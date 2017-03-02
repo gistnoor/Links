@@ -30,5 +30,5 @@
 
 ## IDEA
 
-
 ## MISC
+* [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases)
