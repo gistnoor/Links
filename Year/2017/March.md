@@ -35,7 +35,10 @@
 
 ## Video
 
-## IDEA
+## Theory
+* [If REST applications are supposed to be stateless, how do you manage sessions?](http://stackoverflow.com/questions/3105296/if-rest-applications-are-supposed-to-be-stateless-how-do-you-manage-sessions)
+* [ICS - edu : REST theory](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+* [TutorialsPoint: RESTful web services](https://www.tutorialspoint.com/restful/index.htm)
 
 ## MISC
 * [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases)
