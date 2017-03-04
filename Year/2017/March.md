@@ -12,11 +12,15 @@
 ## Javascript
 * [When do I need to use hasOwnProperty()](http://stackoverflow.com/questions/32422867/when-do-i-need-to-use-hasownproperty)
 * [The Uses of 'in' vs 'hasOwnProperty'](http://adripofjavascript.com/blog/drips/the-uses-of-in-vs-hasownproperty.html)
+* [What is !! (not not) operator in javascript](http://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript)
 
 ### Nodejs
+
+#### Nodejs Challenge
 * [The Node.js knowledge challenge](https://medium.freecodecamp.com/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69#.kzday1hc2)
 
-###### Good Read
+###### Node Challenge Answers
+* [module.exports vs exports in Node.js](http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-node-js)
 
 ###### Video
 

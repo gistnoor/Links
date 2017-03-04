@@ -12,3 +12,11 @@ August | August | August
 [October](../Year/2016/October.md) | October | October
 [November](../Year/2016/November.md) | November | November
 [December](../Year/2016/December.md) | December | December
+
+
+# TEMPORARY links
+* [Web RTC - web demos and samples](https://github.com/webrtc/samples)
+* [Javascript clean code concepts](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Design pattern for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Auth-Boss](https://github.com/teesloane/Auth-Boss)
+* [ML algorithms](https://github.com/rushter/MLAlgorithms)
