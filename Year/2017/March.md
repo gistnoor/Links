@@ -16,6 +16,8 @@
 * [Metaprogramming in ES6 symbols](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
 * [Metaprogramming in ES6 reflect](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-2-reflect/)
 * [Metaprogramming in ES6 proxies](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/)
+* [Create GUID/UUID in javascript](http://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript)
+* [Bitwise operators in javascript](https://miguelmota.com/blog/bitwise-operators-in-javascript/)
 
 ### Nodejs
 
@@ -30,6 +32,8 @@
 ###### Video
 
 ### React
+* [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) - `part - 1`
+* [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/) - `part - 2`
 
 
 ### jQuery
@@ -44,6 +48,8 @@
 * [If REST applications are supposed to be stateless, how do you manage sessions?](http://stackoverflow.com/questions/3105296/if-rest-applications-are-supposed-to-be-stateless-how-do-you-manage-sessions)
 * [ICS - edu : REST theory](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 * [TutorialsPoint: RESTful web services](https://www.tutorialspoint.com/restful/index.htm)
+* [What exactly is RESTful Programming](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
+* [CAP theory](https://en.wikipedia.org/wiki/CAP_theorem)
 
 ## MISC
 * [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases)
