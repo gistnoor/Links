@@ -18,6 +18,7 @@
 * [Metaprogramming in ES6 proxies](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/)
 * [Create GUID/UUID in javascript](http://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript)
 * [Bitwise operators in javascript](https://miguelmota.com/blog/bitwise-operators-in-javascript/)
+* [Javascript the less known parts](http://michalbe.blogspot.com/2013/03/javascript-less-known-parts-bitwise.html)
 
 ### Nodejs
 
