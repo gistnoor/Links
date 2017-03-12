@@ -19,6 +19,8 @@
 * [Create GUID/UUID in javascript](http://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript)
 * [Bitwise operators in javascript](https://miguelmota.com/blog/bitwise-operators-in-javascript/)
 * [Javascript the less known parts](http://michalbe.blogspot.com/2013/03/javascript-less-known-parts-bitwise.html)
+* [Understanding delegated javascript events](https://codepen.io/32bitkid/post/understanding-delegated-javascript-events)
+* [Preserving a reference to 'this' in javascript prototype function](http://stackoverflow.com/questions/2025789/preserving-a-reference-to-this-in-javascript-prototype-functions)
 
 ### Nodejs
 
