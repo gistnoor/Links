@@ -22,6 +22,8 @@
 * [Understanding delegated javascript events](https://codepen.io/32bitkid/post/understanding-delegated-javascript-events)
 * [Preserving a reference to 'this' in javascript prototype function](http://stackoverflow.com/questions/2025789/preserving-a-reference-to-this-in-javascript-prototype-functions)
 * [Model-view-controller (MVC) with javascript](https://alexatnet.com/articles/model-view-controller-mvc-javascript)
+* [Back to basics: javascript object syntax](https://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
+* [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 ### Nodejs
 
