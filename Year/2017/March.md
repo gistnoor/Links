@@ -25,6 +25,10 @@
 * [Back to basics: javascript object syntax](https://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
 * [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
+### jQuery
+* [jQuery tiny-pub-sub](https://github.com/cowboy/jquery-tiny-pubsub)
+* [Namespaced events in jquery](https://css-tricks.com/namespaced-events-jquery/)
+
 ### Nodejs
 
 * [Node.js for server load balancing](https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272#.ibkaiid4j)
