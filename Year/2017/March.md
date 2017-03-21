@@ -24,13 +24,15 @@
 * [Model-view-controller (MVC) with javascript](https://alexatnet.com/articles/model-view-controller-mvc-javascript)
 * [Back to basics: javascript object syntax](https://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
 * [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+* [https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.w249stnjv](Javascript Application architecture on the road to 2015)
+* [Understanding context and scope](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
+
 
 ### jQuery
 * [jQuery tiny-pub-sub](https://github.com/cowboy/jquery-tiny-pubsub)
 * [Namespaced events in jquery](https://css-tricks.com/namespaced-events-jquery/)
 
 ### Nodejs
-
 * [Node.js for server load balancing](https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272#.ibkaiid4j)
 
 #### Nodejs Challenge
@@ -44,15 +46,7 @@
 ### React
 * [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) - `part - 1`
 * [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/) - `part - 2`
-
-
-### jQuery
-
-
-## Python
-
-
-## Video
+* [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.govbnopc5)
 
 ## Theory
 * [If REST applications are supposed to be stateless, how do you manage sessions?](http://stackoverflow.com/questions/3105296/if-rest-applications-are-supposed-to-be-stateless-how-do-you-manage-sessions)
