@@ -47,6 +47,7 @@
 * [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) - `part - 1`
 * [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/) - `part - 2`
 * [How to handle React context in a reliable way](https://medium.com/react-ecosystem/how-to-handle-react-context-a7592dfdcbc#.govbnopc5)
+* [Study React context](https://facebook.github.io/react/docs/context.html)
 
 ## Theory
 * [If REST applications are supposed to be stateless, how do you manage sessions?](http://stackoverflow.com/questions/3105296/if-rest-applications-are-supposed-to-be-stateless-how-do-you-manage-sessions)
