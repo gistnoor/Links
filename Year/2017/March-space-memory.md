@@ -1,5 +1,5 @@
 ### Memory-repeat:   
- ☐ https://rainsoft.io/gentle-explanation-of-this-in-javascript/   
+ ✔ https://rainsoft.io/gentle-explanation-of-this-in-javascript/ @done (17-03-22 20:52)  
  ☐ http://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e   
  ☐ http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/   
  ☐ http://ryanmorr.com/understanding-scope-and-context-in-javascript/   
