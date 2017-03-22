@@ -26,7 +26,7 @@
 * [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * [https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.w249stnjv](Javascript Application architecture on the road to 2015)
 * [Understanding context and scope](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
-
+* [What is execution context & stack in javascript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
 
 ### jQuery
 * [jQuery tiny-pub-sub](https://github.com/cowboy/jquery-tiny-pubsub)
