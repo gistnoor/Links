@@ -63,6 +63,12 @@
 * [Open source guide](https://opensource.guide/)
 * [Load Balancer](https://f5.com/glossary/load-balancer)
 * [What is load balancing](https://www.nginx.com/resources/glossary/load-balancing/)
+* [Given-when-then](https://en.wikipedia.org/wiki/Given-When-Then)
+* [Acceptance test-driven development](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development)
+* [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic)
+* [Behaviour driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
 
 ### Top 10
 
