@@ -41,8 +41,6 @@
 ###### Node Challenge Answers
 * [module.exports vs exports in Node.js](http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-node-js)
 
-###### Video
-
 ### React
 * [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) - `part - 1`
 * [Getting Started with React redux and immutable: a test driven tutorial](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/) - `part - 2`
@@ -57,6 +55,7 @@
 * [CAP theory](https://en.wikipedia.org/wiki/CAP_theorem)
 
 ## MISC
+* [Design pattern in javascript](http://tcorral.github.io/Design-Patterns-in-Javascript/)
 * [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases)
 * [Illustrated Algorithm](https://illustrated-algorithms.now.sh/)
 * [New Approach to browse web](https://medium.freecodecamp.com/lossless-web-navigation-with-trails-9cd48c0abb56#.t02m487iy)
