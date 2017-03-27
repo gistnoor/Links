@@ -24,9 +24,14 @@
 * [Model-view-controller (MVC) with javascript](https://alexatnet.com/articles/model-view-controller-mvc-javascript)
 * [Back to basics: javascript object syntax](https://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
 * [EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-* [https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.w249stnjv](Javascript Application architecture on the road to 2015)
+* [Javascript Application architecture on the road to 2015](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.w249stnjv)
 * [Understanding context and scope](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
 * [What is execution context & stack in javascript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
+
+##### Design pattern
+ * [Design pattern in javascript - 1.5K](https://github.com/tcorral/Design-Patterns-in-Javascript)
+ * [Design pattern for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+ * [TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
 
 ### jQuery
 * [jQuery tiny-pub-sub](https://github.com/cowboy/jquery-tiny-pubsub)
@@ -53,8 +58,9 @@
 * [TutorialsPoint: RESTful web services](https://www.tutorialspoint.com/restful/index.htm)
 * [What exactly is RESTful Programming](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
 * [CAP theory](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Javascript design pattern for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 
-## MISC
+### MISC
 * [Design pattern in javascript](http://tcorral.github.io/Design-Patterns-in-Javascript/)
 * [List of memory biases](https://en.wikipedia.org/wiki/List_of_memory_biases)
 * [Illustrated Algorithm](https://illustrated-algorithms.now.sh/)
