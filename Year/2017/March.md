@@ -58,7 +58,6 @@
 * [TutorialsPoint: RESTful web services](https://www.tutorialspoint.com/restful/index.htm)
 * [What exactly is RESTful Programming](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
 * [CAP theory](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Javascript design pattern for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 
 ### MISC
 * [Design pattern in javascript](http://tcorral.github.io/Design-Patterns-in-Javascript/)
