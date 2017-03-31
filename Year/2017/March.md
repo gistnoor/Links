@@ -1,14 +1,6 @@
 # March [2017]
 [2017]: https://github.com/gistnoor/Links/tree/master/Year
 
-## CSS
-
-###### Good Read
-
-###### Worth looking
-
-## Wordpress
-
 ## Javascript
 * [When do I need to use hasOwnProperty()](http://stackoverflow.com/questions/32422867/when-do-i-need-to-use-hasownproperty)
 * [The Uses of 'in' vs 'hasOwnProperty'](http://adripofjavascript.com/blog/drips/the-uses-of-in-vs-hasownproperty.html)
@@ -27,11 +19,16 @@
 * [Javascript Application architecture on the road to 2015](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b#.w249stnjv)
 * [Understanding context and scope](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
 * [What is execution context & stack in javascript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
+* [6 Reasons why javascript's Async/Await blows promises away](https://medium.com/@mgaafar/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9#.17hybbqc8)
 
 ##### Design pattern
  * [Design pattern in javascript - 1.5K](https://github.com/tcorral/Design-Patterns-in-Javascript)
  * [Design pattern for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
  * [TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+
+### Important
+ * [Javascript.info](http://javascript.info/)
+ * [Sinonjs](http://sinonjs.org/releases/v2.1.0/)
 
 ### jQuery
 * [jQuery tiny-pub-sub](https://github.com/cowboy/jquery-tiny-pubsub)
