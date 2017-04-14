@@ -12,3 +12,6 @@
 ### MISC
 *  [Big O - difference between lower bound and tight bound](http://stackoverflow.com/questions/464078/difference-between-lower-bound-and-tight-bound)
 * [Arity](https://en.wikipedia.org/wiki/Arity)
+
+### MISC
+* [The firt 20 hours - How to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY)
