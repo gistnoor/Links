@@ -8,6 +8,8 @@
 
 ### React
 * [How to work with and Manipulate state in react](https://www.sitepoint.com/work-with-and-manipulate-state-in-react/)
+* [Building Tesla's battery calculator with react part -1](https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee)
+* [Building Tesla's battery calculator with react part -2](https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-2-redux-version-2ffe29018eec)
 
 ### MISC
 *  [Big O - difference between lower bound and tight bound](http://stackoverflow.com/questions/464078/difference-between-lower-bound-and-tight-bound)
