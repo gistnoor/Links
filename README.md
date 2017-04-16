@@ -1,5 +1,9 @@
 ## Bookmark
 
+### Working
+* [500 Data structures and algorithms interview questions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
+* [Coding interview questions](https://github.com/jwasham/coding-interview-university)
+
 ### Websites
 
 ###### Reddit
