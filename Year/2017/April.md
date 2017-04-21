@@ -10,6 +10,10 @@
 * [How to create hexagonal grids](https://www.codesmite.com/article/how-to-create-pure-css-hexagonal-grids)
 * [CSS transform order matters: rightmost operation first](http://stackoverflow.com/questions/27635272/css3-transform-order-matters-rightmost-operation-first) 
 
+### Javascript
+* [Javascript debouncin function](https://davidwalsh.name/javascript-debounce-function)
+* [Difference between throttling and debouncing](https://css-tricks.com/the-difference-between-throttling-and-debouncing/)
+* [Demystifing debounce javascript](https://john-dugan.com/javascript-debounce/)
 
 ### Nodejs Coding challenge answers 
 * []()
